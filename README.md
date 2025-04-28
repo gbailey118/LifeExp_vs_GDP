@@ -25,11 +25,11 @@ In 2015:
 
 Across the time period (2000-2015):
 
--USA and China have experienced significantly higher economic growth than the other countries
--USA has experienced steady economic growth
--China's economic growth accelerated from around 2005 onwards
--Zimbabwe's life expectancy at birth fell in the early 2000s and has risen sharply since
--All of the other countries have experienced more gradual life expectancy increases
+- USA and China have experienced significantly higher economic growth than the other countries
+- USA has experienced steady economic growth
+- China's economic growth accelerated from around 2005 onwards
+- Zimbabwe's life expectancy at birth fell in the early 2000s and has risen sharply since
+- All of the other countries have experienced more gradual life expectancy increases
 
 On the relationship between GDP and life expectancy:
 
